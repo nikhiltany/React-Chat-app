@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Created a chat app using React.js & chat engine 
+[Live Site](https://chat-app-nick.netlify.app/)
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
